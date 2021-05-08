@@ -1,4 +1,4 @@
-package com.epam.rd.java.basic.practice3;
+package com.savaz.rd.java.basic.practice3;
 
 public class Part5 {
     protected static final int[] VALUES = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};

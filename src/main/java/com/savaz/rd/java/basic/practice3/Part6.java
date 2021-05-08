@@ -1,4 +1,4 @@
-package com.epam.rd.java.basic.practice3;
+package com.savaz.rd.java.basic.practice3;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
